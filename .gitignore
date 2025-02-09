@@ -1,0 +1,5 @@
+# Macos folder management file
+.DS_Store
+
+# Datasets, too large for github
+Datasets/*
