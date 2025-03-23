@@ -3,3 +3,4 @@
 
 # Datasets, too large for github
 Datasets/*
+!Datasets/mnist.zip
