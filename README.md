@@ -17,11 +17,11 @@ The project is based on the [MNIST dataset](https://en.wikipedia.org/wiki/MNIST_
 
 ## Implementation
 ### FCN Simple Autoencoder
-
+to be completed
 ### FCN Improved Autoencoder
-
+to be completed
 ### CNN Autoencoder
-
+to be completed
 
 ## Running the code
 
