@@ -1,10 +1,15 @@
 # anomaly-Detection-with-autoencoder
 This project is part of the (cannot explicitly name it due to plagiarism prevention) course at TU Eindhoven. It aims to implement anomaly detection in MNIST dataset using autoencoder structure. Anomaly in form of added noise is getting detected by increased loss in reconstructed images. This metric is being used to detect anomalies. Additionally, different network structures have been compared for this case.
 
+![image](https://github.com/user-attachments/assets/924845cf-3eb8-48a9-b3ed-7b463f7356fe)
+![image](https://github.com/user-attachments/assets/96beb588-5948-46d4-a1d2-0dc2088f3962)
+
+
 ## Dataset
 The project is based on the [MNIST dataset](https://en.wikipedia.org/wiki/MNIST_database), which consists of 28x28 grayscale images of handwritten digits. The dataset is widely used for training and testing in the field of machine learning. To simulate anomalies a Gaussian noise of different strength has been added to samples in corrupted set.
 
-image 1
+![image](https://github.com/user-attachments/assets/725031f7-26a5-42f8-897b-815891e0773d)
+
 
 ## Implementation
 ### FCN Simple Autoencoder
