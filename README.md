@@ -28,7 +28,7 @@ It is recommended to use the course-provided "experiments_JF" environment to run
 The Datasets folder contains a zipped file of the MNIST dataset. This dataset includes all samples without any division into training, testing, or validation sets. To run the code, please unzip the file manually.
 
 ## Results
-Clearly corrupted samples can be distinguished from unchanged ones by tresholding.
+Clearly corrupted samples can be distinguished from unchanged ones by tresholding with satisfactory results.
 ![image](https://github.com/user-attachments/assets/8a35d8f9-adf5-4bf1-b6f4-1f6c0166a23e)
 
 
