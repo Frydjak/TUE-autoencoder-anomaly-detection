@@ -3,6 +3,7 @@ This project is part of the (cannot explicitly name it due to plagiarism prevent
 
 ![image](https://github.com/user-attachments/assets/924845cf-3eb8-48a9-b3ed-7b463f7356fe)
 resulting loss for normal sample: 0.006
+
 ![image](https://github.com/user-attachments/assets/96beb588-5948-46d4-a1d2-0dc2088f3962)
 resulting loss for corrupted sample: 0.021
 
