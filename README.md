@@ -1,4 +1,4 @@
-# anomaly-detection-with-autoencoder
+# Autoencoder Anomaly Detection
 This project is part of the (cannot explicitly name it due to plagiarism prevention) course at TU Eindhoven. It aims to implement anomaly detection in MNIST dataset using autoencoder structure. Anomaly in form of added noise is getting detected by increased loss in reconstructed images. This metric is being used to detect anomalies. Additionally, different network structures have been compared for this case.
 
 ![image](https://github.com/user-attachments/assets/924845cf-3eb8-48a9-b3ed-7b463f7356fe)
