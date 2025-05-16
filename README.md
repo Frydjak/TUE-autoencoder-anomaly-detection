@@ -35,6 +35,8 @@ The Datasets folder contains a zipped file of the MNIST dataset. This dataset in
 ## Results
 Clearly corrupted samples can be distinguished from unchanged ones by tresholding with satisfactory results.
 ![image](https://github.com/user-attachments/assets/8a35d8f9-adf5-4bf1-b6f4-1f6c0166a23e)
+![image](https://github.com/user-attachments/assets/26d03514-539f-4f90-be1a-3ba1dcc8ee51)
+
 
 
 
